@@ -31,7 +31,7 @@ Click the badge above to launch the interactive notebook in Google Colab — no 
 ```bash
 pip install -r requirements.txt
 python entangled_train.py
-
+```
 🔬 Results
 Both student and teacher models improve their predictions with collaborative training. KL divergence analysis demonstrates the effects of asymmetric vs symmetric learning.
 
