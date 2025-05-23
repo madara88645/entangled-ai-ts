@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madara88645/entangled-ai-ts/blob/main/entangled_student_teacher.ipynb)
+
 # Entangled Learning 2.x — Teacher-Student Output Alignment
 
 This project demonstrates **entangled learning** where a small student model learns from both true labels and the output distribution of a larger teacher model. Two modes are implemented:
