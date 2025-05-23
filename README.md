@@ -3,6 +3,7 @@
 
 📖 **Read the full article on Medium**:  
 [Entangled Learning 2.x — Think Together, Train Smarter]([https://medium.com/your-article-link](https://medium.com/@mehmet.ozel2701/entangled-learning-2-x-92ea4f84345a))
+
 # Entangled Learning 2.x — Teacher-Student Output Alignment
 
 This project demonstrates **entangled learning** where a small student model learns from both true labels and the output distribution of a larger teacher model. Two modes are implemented:
